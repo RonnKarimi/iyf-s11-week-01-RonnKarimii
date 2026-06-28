@@ -1,0 +1,73 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Ronn Karimi - About</title>
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=MonteCarlo&family=Noto+Serif+Oriya:wght@400..700&display=swap" rel="stylesheet">
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/RonnKarimi/iyf-s11-week-02-RonnKarimi@main/styles.css">
+</head>
+<body>
+
+    <nav>
+        <a href="index.html" class="logo">Ronn Karimi</a>
+        <ul>
+            <li><a href="index.html">Home</a></li>
+            <li><a href="about.html" class="active">About</a></li>
+            <li><a href="projects.html">Projects</a></li>
+            <li><a href="contact.html">Contact</a></li>
+        </ul>
+    </nav>
+
+    <main>
+        <h1>About Me</h1>
+
+        <p>
+            My name is Ronn Karimi. I am a programmer based in Nairobi, Kenya.
+            I am currently a student at IYF We Can Academy where I am studying programming, web development,
+            and AI. I have a strong passion for building things on the web and am always
+            eager to learn new technologies.
+        </p>
+
+        <h2>Skills</h2>
+        <ul>
+            <li>HTML & CSS</li>
+            <li>JavaScript</li>
+            <li>Python</li>
+            <li>Web Development</li>
+            <li>Digital Marketing</li>
+            <li>Video Editing</li>
+        </ul>
+
+        <h2>Education & Experience</h2>
+        <div class="timeline">
+            <div class="timeline-item">
+                <h3>2026 – Present</h3>
+                <p>Student at IYF We Can Academy — Programming, Web Development & AI</p>
+            </div>
+            <div class="timeline-item">
+                <h3>2026 – Present</h3>
+                <p>Self-taught programmer — HTML, CSS, JavaScript, Python</p>
+            </div>
+            <div class="timeline-item">
+                <h3>2026 – Present</h3>
+                <p>Freelance exploration — Learning platforms like freeCodeCamp and building personal projects</p>
+            </div>
+        </div>
+
+        <h2>Hobbies & Interests</h2>
+        <ul>
+            <li>Video editing</li>
+            <li>Taking leisurely walks</li>
+            <li>Reading</li>
+        </ul>
+    </main>
+
+    <footer>
+        <p>&copy; 2026 Ronn Karimi. All rights reserved.</p>
+    </footer>
+
+</body>
+</html>
