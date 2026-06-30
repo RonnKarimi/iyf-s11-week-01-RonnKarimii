@@ -3,7 +3,7 @@
 ## Author
 - **Name:** RonnKarimi
 - **GitHub:** [RonnKarimi](https://github.com/RonnKarimi)
-- **Date:** 06/24/2026
+- **Date:** 06/28/2026
 
 ## Project Description
 I built a personal portfolio website that shows my personal information, how to contact me and the projects I have built. I built it to gain more understanding about HTML and CSS.
